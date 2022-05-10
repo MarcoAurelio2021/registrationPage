@@ -177,8 +177,13 @@ z-index: -1;
 
     main form label span, main form input [type="submit"] {
         font-size: 1rem;
+      
+    }
+
+    main form input [type="submit"] {
         margin-top: 2rem;
     }
 }
+
 
 /* @media only screen and ( é o comando para verificar o tamanho de tela).
